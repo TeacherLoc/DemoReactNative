@@ -6,15 +6,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 **BÀI GIỮA KÌ Ngày 15/05/2025**
 
-[![Xem Demo BÀI GIỮA KÌ]](https://github.com/user-attachments/assets/8bf16bcc-4242-4296-a34d-093498e4dd83)
-
-**ToDoApp Ngày 08/05/2025**
-
-[![Xem Demo ToDoApp]](https://github.com/user-attachments/assets/fb342dd7-53da-4414-b1b5-8abc61871197)
-
-**Demo Excersise 4 Ngày 24/04/2025**
-
-[![Xem Demo Excersise 4 - 24042025]](https://github.com/user-attachments/assets/4a2e99ad-d05e-4726-b2f6-b53e14748ba7)
+https://github.com/user-attachments/assets/f3300a9a-e84f-4826-aad8-be941736989d
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
